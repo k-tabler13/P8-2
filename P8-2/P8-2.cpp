@@ -1,4 +1,4 @@
-// counts the number of words in given string.  
+// counts the number of words in given string..  
 
 #include <iostream> 
 #include <string> 
